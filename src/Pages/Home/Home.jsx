@@ -12,6 +12,7 @@ export const Home = () => {
       <PopularMenu />
       <Featured />
       <Testimonial />
+      fj
     </div>
   );
 };
